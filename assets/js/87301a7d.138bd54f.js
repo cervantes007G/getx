@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[229],{3410:t=>{t.exports=JSON.parse('{"title":"Community","description":"Community.","slug":"/category/community","permalink":"/getx/docs/category/community","navigation":{"previous":{"title":"Utils","permalink":"/getx/docs/utils"},"next":{"title":"Channels","permalink":"/getx/docs/community/channels"}}}')}}]);
